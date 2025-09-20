@@ -42,9 +42,9 @@
                                     <li>
                                         <i class="icon-email color-secondary"></i>
                                         <a href="tel:+5565454117">
-                                            <span class="color-secondary">Email: </span> <span><span
+                                            <span class="color-secondary">Email: info@shivglobeacademy.com</span> <span><span
                                                     class="__cf_email__"
-                                                    data-cfemail="67300614130e06275008150808014904080a">[email&#160;protected]</span></span>
+                                                    data-cfemail="67300614130e06275008150808014904080a">info@shivglobeacademy.com</span></span>
                                         </a>
                                     </li>
                                     <li>
@@ -124,7 +124,7 @@
                             <div class="contact-icon"><i class="icon-phone"></i></div>
                             <div>
                                 <span class="d-block color-gray">Need assistance?</span>
-                                <span class="phone-number d-block">+2 01061245741</span>
+                                <span class="phone-number d-block">+919211018618</span>
                             </div>
                         </a>
                     </div>

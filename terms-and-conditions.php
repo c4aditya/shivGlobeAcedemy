@@ -34,7 +34,7 @@
                 <div class="sg-box">
                     <h2 class="sg-heading">Terms & Conditions</h2>
                     <p>
-                        Welcome to Shivglobe Ai and Aviation Academy (opc) Pvt.ltd.. By accessing our website,
+                        Welcome to ShivGlobe Academy and Aviation Academy (opc) Pvt.ltd.. By accessing our website,
                         enrolling in our courses, or using our services, you agree to comply with
                         the following Terms and Conditions. Please read this page carefully before
                         engaging with our platform. If you do not agree with these terms, we

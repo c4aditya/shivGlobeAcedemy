@@ -2712,7 +2712,7 @@ input[type=radio] {
 }
 .navbar .dropdown-menu .nav-item > .nav-item-link {
   font-size: 14px;
-  background-color: ;
+  
   text-transform: capitalize;
   font-weight: 400;
   line-height: 42px !important;
@@ -10774,6 +10774,12 @@ iframe {
     gap: 15px;
 }
 
+.slick-prev, .slick-next {
+    z-index: 10;
+    width: 40px;
+    height: 40px;
+}
+
 /* Responsive Styles */
 @media (max-width: 1200px) {
     .slide-content {
@@ -10837,12 +10843,6 @@ iframe {
     }
 }
 
-/* Ensure arrows and dots are always visible */
-.slick-prev, .slick-next {
-    z-index: 10;
-    width: 40px;
-    height: 40px;
-}
-.slick-dots {
-    bottom: 20px;
+
+
 }

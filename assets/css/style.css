@@ -3694,7 +3694,7 @@ input[type=radio] {
     content: "\f106";
   }
   .navbar .dropdown-menu {
- 
+  background-color: rgb(152, 125, 76);
   }
   .navbar .dropdown-menu .nav-item {
     padding: 0 15px 0 30px;

@@ -88,17 +88,32 @@
                             </li>
                             <li class="nav-item has-dropdown dropdown">
                                 <a href="#" class="nav-item-link dropdown-toggle" data-bs-toggle="dropdown">Select a Course</a>
-                                <ul class="dropdown-menu">
+                               <ul class="dropdown-menu">
                                     <li class="nav-item">
-                                        <a href="aviation-training.php" class="nav-item-link">Aviation Training</a>
+                                        <a href="aviation-training.php" class="nav-item-link color-balck">Aviation Training</a>
                                     </li><!-- /.nav-item -->
                                     <li class="nav-item">
                                         <a href="it-software-development.php" class="nav-item-link">IT Software Development</a>
                                     </li><!-- /.nav-item -->
+
                                     <li class="nav-item">
                                         <a href="banking-finance-training.php" class="nav-item-link">Banking & Finance Training</a>
-                                    </li><!-- /.nav-item -->
-                                </ul><!-- /.dropdown-menu -->
+                                    </li>
+
+                                      <li class="nav-item">
+                                        <a href="banking-operations.php" class="nav-item-link">Banking Operations</a>
+                                    </li>
+
+                                      <li class="nav-item">
+                                        <a href="accounting-basics.php" class="nav-item-link">Accounting Basics</a>
+                                    </li>
+
+                                      <li class="nav-item">
+                                        <a href="database-management.php" class="nav-item-link">Database Management</a>
+                                    </li>
+                                    
+                                    <!-- /.nav-item -->
+                                </ul>
                             </li>
                             <li class="nav-item">
                                 <a href="blog-details.php" class="nav-item-link ">Blog</a>

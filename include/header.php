@@ -43,7 +43,7 @@
                                         <a href="tel:+919211018618">
                                             <span class="color-secondary">Email: </span> <span><span
                                                     class="__cf_email__"
-                                                    data-cfemail="67300614130e06275008150808014904080a">[&#160; info@shivglobeacademy.com]</span></span>
+                                                    data-cfemail="67300614130e06275008150808014904080a">[&#160; ]</span></span>
                                         </a>
                                     </li>
                                     <li>

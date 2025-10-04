@@ -41,9 +41,7 @@
                                     <li>
                                         <i class="icon-email color-secondary"></i>
                                         <a href="tel:+919211018618">
-                                            <span class="color-secondary">Emails: </span> <span><span
-                                                    class="__cf_email__"
-                                                    data-cfemail="67300614130e06275008150808014904080a">[&#160; info@shivglobeacdemy.com</span></span>
+                                            <span class="color-secondary">Emails: </span> <span><span>&#160; info@shivglobeacdemy.com</span></span>
                                         </a>
                                     </li>
                                     <li>

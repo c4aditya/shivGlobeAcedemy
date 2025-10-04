@@ -11,9 +11,9 @@
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;700&amp;family=Roboto:wght@400;700&amp;display=swap">
     <link rel="stylesheet" href="../../../use.fontawesome.com/releases/v5.15.1/css/all.css">
-    <link rel="stylesheet" href="./assets/css/libraries.css">
-    <link rel="stylesheet" href="./assets/css/icons.css">
-    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="../assets/css/libraries.css">
+    <link rel="stylesheet" href="../assets/css/icons.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
 </head>
 
 <body>

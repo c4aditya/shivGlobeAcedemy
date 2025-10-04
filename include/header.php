@@ -41,7 +41,7 @@
                                     <li>
                                         <i class="icon-email color-secondary"></i>
                                         <a href="tel:+919211018618">
-                                            <span class="color-secondary">Email: </span> <span><span
+                                            <span class="color-secondary">Emails: </span> <span><span
                                                     class="__cf_email__"
                                                     data-cfemail="67300614130e06275008150808014904080a">[&#160; info@shivglobeacdemy.com</span></span>
                                         </a>
@@ -49,7 +49,7 @@
                                     <li>
                                         <i class="icon-clock color-secondary"></i>
                                         <a href="contact-us.html">
-                                            <span class="color-secondary">Working Hours: </span> <span> 10:00 am -
+                                            <span class="color-secondary">Working Hour: </span> <span> 10:00 am -
                                                 7:00 pm</span>
                                         </a>
                                     </li>

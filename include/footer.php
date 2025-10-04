@@ -90,7 +90,7 @@
                          <ul class="contact-list list-unstyled">
                              <li>
                                  <a href="tel:+919211018618">
-                                            <span class="color-secondary">Email: </span> <span><span>&#160; info@shivglobeacdemy.com</span></span>
+                                            <span class="color-secondary">Email:</span> <span><span> info@shivglobeacdemy.com</span></span>
                                         </a>
                              </li>
                              <li>

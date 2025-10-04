@@ -38,7 +38,7 @@
                         <li>
                             <i class="icon-email color-secondary"></i>
                             <a href="tel:+201161145741">
-                                <span class="color-secondary"> Emergency Line: </span> <span>(002) 01061245741</span>
+                                <span class="color-secondary"> Emergency Line: </span> <span>+91 9211018618</span>
                             </a>
                         </li>
                         <li>
@@ -58,58 +58,62 @@
             </div><!-- /.col-xl-5 -->
             <div class="col-sm-12 col-md-12 col-lg-7 col-xl-7 d-flex justify-content-xl-end">
                 <div class="contact-panel">
-                    <form class="contact-panel-form" method="post"
-                        action="https://7oroof.com/demos/wastia/assets/php/contact.php" id="contactForm">
-                        <h4 class="contact-panel-title">Send A Message</h4>
-                        <p class="contact-panel-desc mb-30">Please complete the form below, to request a quote, and
-                            we’ll be in
-                            touch. Or you can call us
-                            <a href="tel:+201161145741" class="fw-600 underlined-text-primary">+2 01161145741</a>
-                            and our specialists will provide the necessary help!
-                        </p>
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <label for="contact-name">First Name</label>
-                                    <input type="text" class="form-control" placeholder="Shiv" id="contact-name"
-                                        name="contact-name" required>
-                                </div>
-                            </div><!-- /.col-sm-6 -->
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <label for="contact-lastName">Last Name</label>
-                                    <input type="text" class="form-control" placeholder="Globe" id="contact-lastName"
-                                        name="contact-lastName">
-                                </div>
-                            </div><!-- /.col-sm-6 -->
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <label for="contact-email">Email Address</label>
-                                    <input type="email" class="form-control" placeholder="Krishna98@gmail.com"
-                                        id="contact-email" name="contact-email" required>
-                                </div>
-                            </div><!-- /.col-sm-6 -->
-                            <div class="col-sm-6">
-                                <div class="form-group">
-                                    <label for="contact-Phone">Phone</label>
-                                    <input type="text" class="form-control" placeholder="Phone Number"
-                                        id="contact-Phone" name="contact-phone" required>
-                                </div>
-                            </div><!-- /.col-sm-6 -->
-                            <div class="col-12">
+                    <form class="contact-panel-form" method="post" action="mail_send.php" id="contactForm">
+    <h4 class="contact-panel-title">Send A Message</h4>
+    <p class="contact-panel-desc mb-30">
+        Please complete the form below, to request a quote, and we’ll be in touch. Or you can call us
+        <a href="tel:+201161145741" class="fw-600 underlined-text-primary">+91 9211018618</a>
+        and our specialists will provide the necessary help!
+    </p>
 
-                                <div class="form-group">
-                                    <label for="contact-message">How We Can Help You?</label>
-                                    <textarea class="form-control" placeholder="Your Message" id="contact-message"
-                                        name="contact-message"></textarea>
-                                </div>
-                                <button type="submit" class="btn btn-primary btn-block btn-xhight mt-10">
-                                    <span>Submit Request</span> <i class="icon-arrow-right-up"></i>
-                                </button>
-                                <div class="contact-result"></div>
-                            </div><!-- /.col-lg-12 -->
-                        </div><!-- /.row -->
-                    </form>
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group">
+                <label for="contact-name">First Name</label>
+                <input type="text" class="form-control" placeholder="Shiv" id="contact-name"
+                       name="contact-name" required>
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+            <div class="form-group">
+                <label for="contact-lastName">Last Name</label>
+                <input type="text" class="form-control" placeholder="Globe" id="contact-lastName"
+                       name="contact-lastName">
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+            <div class="form-group">
+                <label for="contact-email">Email Address</label>
+                <input type="email" class="form-control" placeholder="Krishna98@gmail.com"
+                       id="contact-email" name="contact-email" required>
+            </div>
+        </div>
+
+        <div class="col-sm-6">
+            <div class="form-group">
+                <label for="contact-phone">Phone</label>
+                <input type="text" class="form-control" placeholder="Phone Number"
+                       id="contact-phone" name="contact-phone" required>
+            </div>
+        </div>
+
+        <div class="col-12">
+            <div class="form-group">
+                <label for="contact-message">How We Can Help You?</label>
+                <textarea class="form-control" placeholder="Your Message" id="contact-message"
+                          name="contact-message"></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block btn-xhight mt-10">
+                <span>Submit Request</span> <i class="icon-arrow-right-up"></i>
+            </button>
+            <div class="contact-result"></div>
+        </div>
+    </div>
+</form>
+
                 </div><!-- /.contact-panel -->
             </div><!-- /.col-lg-8 -->
         </div><!-- /.row -->

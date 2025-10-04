@@ -43,13 +43,13 @@
                                         <a href="tel:+919211018618">
                                             <span class="color-secondary">Email: </span> <span><span
                                                     class="__cf_email__"
-                                                    data-cfemail="67300614130e06275008150808014904080a">[&#160; ]</span></span>
+                                                    data-cfemail="67300614130e06275008150808014904080a">[&#160; info@shivglobcademy.com]</span></span>
                                         </a>
                                     </li>
                                     <li>
                                         <i class="icon-clock color-secondary"></i>
                                         <a href="contact-us.html">
-                                            <span class="color-secondary">Working Hours: </span> <span>Fri: 10:00 am -
+                                            <span class="color-secondary">Working Hours: </span> <span> 10:00 am -
                                                 7:00 pm</span>
                                         </a>
                                     </li>
@@ -88,7 +88,7 @@
                             </li>
                             <li class="nav-item has-dropdown dropdown">
                                 <a href="#" class="nav-item-link dropdown-toggle" data-bs-toggle="dropdown">Select a Course</a>
-                               <ul class="dropdown-menu">
+                                <ul class="dropdown-menu">
                                     <li class="nav-item">
                                         <a href="aviation-training.php" class="nav-item-link color-balck">Aviation Training</a>
                                     </li><!-- /.nav-item -->
@@ -113,7 +113,7 @@
                                     </li>
                                     
                                     <!-- /.nav-item -->
-                                </ul>
+                                </ul><!-- /.dropdown-menu -->
                             </li>
                             <li class="nav-item">
                                 <a href="blog-details.php" class="nav-item-link ">Blog</a>

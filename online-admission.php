@@ -29,46 +29,46 @@
     <div class="admission-overlay">
         <div class="admission-container">
             <h2 class="admission-title">Shivglobe Ai and Aviation Academy (OPC) Pvt. Ltd.</h2>
-            <form class="admission-form">
+            <form class="admission-form" action="online_admission_process.php" method="POST">
 
                 <div class="online-addmisson">
                     <label>Full Name</label>
-                    <input type="text" placeholder="Enter your name" required>
+                    <input type="text" placeholder="Enter your name" name="name" required>
                 </div>
 
                 <div class="online-addmisson">
                     <label>Mobile Number</label>
-                    <input type="tel" placeholder="Enter your number" required>
+                    <input type="tel" placeholder="Enter your number" name="contact" required>
                 </div>
 
                 <div class="online-addmisson">
                     <label>Email ID</label>
-                    <input type="email" placeholder="Enter your email" required>
+                    <input type="email" placeholder="Enter your email" name="email" required>
                 </div>
 
                 <div class="online-addmisson">
                     <label>Father's Name</label>
-                    <input type="text" placeholder="Enter father’s name" required>
+                    <input type="text" placeholder="Enter father’s name" name="father_name" required>
                 </div>
 
                 <div class="online-addmisson full-width">
                     <label>Address</label>
-                    <textarea placeholder="Enter your address" required></textarea>
+                    <textarea placeholder="Enter your address" name="address" required></textarea>
                 </div>
 
                 <div class="online-addmisson">
                     <label>12th Marksheet Upload</label>
-                    <input type="file" accept=".jpg,.jpeg,.png,.pdf" required>
+                    <input type="file" accept=".jpg,.jpeg,.png,.pdf" name="marksheet" required>
                 </div>
 
                 <div class="online-addmisson">
                     <label>Passport Size Photo</label>
-                    <input type="file" accept=".jpg,.jpeg,.png" required>
+                    <input type="file" accept=".jpg,.jpeg,.png" name="passport" required>
                 </div>
 
                 <div class="online-addmisson">
                     <label>Gender</label>
-                    <select required>
+                    <select name="gender" required>
                         <option value="">Select</option>
                         <option>Male</option>
                         <option>Female</option>
@@ -78,12 +78,12 @@
 
                 <div class="online-addmisson">
                     <label>Date</label>
-                    <input type="date" required>
+                    <input type="date" name="date" required>
                 </div>
 
                 <div class="online-addmisson full-width">
                     <label>Aadhaar Number</label>
-                    <input type="text" placeholder="Enter Aadhaar number" required>
+                    <input type="text" placeholder="Enter Aadhaar number" name="aadhar" required>
                 </div>
 
                 <button type="submit" class="submit-btn">Submit Admission Form</button>

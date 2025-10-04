@@ -77,7 +77,7 @@
                 <div class="sg-box">
                     <h3 class="sg-heading">Our Mission</h3>
                     <p>
-                        At ShivGlobe Academy, our mission is to bridge the gap between education
+                        At Shivglobe Ai and Aviation Academy, our mission is to bridge the gap between education
                         and real-world industry requirements by empowering learners with
                         job-oriented skills and practical expertise. We are dedicated to creating
                         a platform where students can not only learn but also experience hands-on
@@ -100,7 +100,7 @@
                 <div class="sg-box">
                     <h3 class="sg-heading">Our Vision</h3>
                     <p>
-                        Our vision at ShivGlobe Academy is to become a globally recognized
+                        Our vision at Shivglobe Ai and Aviation Academy is to become a globally recognized
                         institution for skill-based education and professional training. We
                         envision a future where every learner is equipped with the right knowledge
                         and abilities to face the challenges of a rapidly changing world. We aim
@@ -123,7 +123,7 @@
                 <div class="sg-box">
                     <h3 class="sg-heading">Why Choose Us</h3>
                     <p>
-                        Choosing ShivGlobe Academy means choosing a pathway to success. We stand
+                        Choosing Shivglobe Ai and Aviation Academy means choosing a pathway to success. We stand
                         apart because of our commitment to excellence, industry-driven programs,
                         and student-centered approach. Our academy is not just an institution but
                         a launchpad for future leaders and innovators.
@@ -147,7 +147,7 @@
                     </p>
                     <p>
                         With a strong track record of success stories and a vision for global
-                        excellence, ShivGlobe Academy is your trusted partner in building a
+                        excellence,Shivglobe Ai and Aviation Academy is your trusted partner in building a
                         brighter future. By choosing us, you are choosing quality education,
                         career readiness, and lifelong success.
                     </p>
@@ -167,25 +167,23 @@
                 <div class="slick-carousel"
                     data-slick='{"slidesToShow": 6, "arrows": false, "dots": false, "autoplay": true,"autoplaySpeed": 2000, "infinite": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 3}}, {"breakpoint": 767, "settings": {"slidesToShow": 2}}, {"breakpoint": 480, "settings": {"slidesToShow": 2}}]}'>
                     <div class="client">
-                        <img src="assets/images/clients/1.svg" alt="client">
+                        <img src="https://avistalearning.com/assets/images/company-icons/company-icon-5.jpg" alt="client">
                     </div><!-- /.client -->
                     <div class="client">
-                        <img src="assets/images/clients/2.webp" alt="client">
+                        <img src="https://avistalearning.com/assets/images/company-icons/company-icon-6.jpg" alt="client">
                     </div><!-- /.client -->
                     <div class="client">
-                        <img src="assets/images/clients/3.svg" alt="client">
+                        <img src="https://avistalearning.com/assets/images/company-icons/company-icon-7.jpg" alt="client">
                     </div><!-- /.client -->
                     <div class="client">
-                        <img src="assets/images/clients/4.webp" alt="client">
+                        <img src="https://avistalearning.com/assets/images/company-icons/company-icon-8.jpg" alt="client">
                     </div><!-- /.client -->
                     <div class="client">
-                        <img src="assets/images/clients/5.svg" alt="client">
+                        <img src="https://avistalearning.com/assets/images/company-icons/company-icon-12.jpg" alt="client">
                     </div><!-- /.client -->
+                  
                     <div class="client">
-                        <img src="assets/images/clients/6.svg" alt="client">
-                    </div><!-- /.client -->
-                    <div class="client">
-                        <img src="assets/images/clients/7.png" alt="client">
+                        <img src="https://avistalearning.com/assets/images/company-icons/company-icon-23.png" alt="client">
                     </div><!-- /.client -->
                 </div><!-- /.carousel -->
             </div><!-- /.col-xl-8 -->

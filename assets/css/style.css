@@ -2712,7 +2712,7 @@ input[type=radio] {
 }
 .navbar .dropdown-menu .nav-item > .nav-item-link {
   font-size: 14px;
-  
+ color: black ;
   text-transform: capitalize;
   font-weight: 400;
   line-height: 42px !important;
@@ -2721,8 +2721,13 @@ input[type=radio] {
   padding-right: 0;
   border-bottom: 1px solid var(--color-primary-600);
 }
+
+.color-balck{
+  color: black !important;
+}
 .navbar .dropdown-menu .nav-item > .nav-item-link:before {
   content: "";
+  color: black;
   position: absolute;
   top: auto;
   bottom: -1px;
@@ -2743,7 +2748,7 @@ input[type=radio] {
   transition: all 300ms ease-in-out 0ms;
 }
 .navbar .dropdown-menu .nav-item > .nav-item-link:hover {
-  color: var(--color-white);
+  color: black;
 }
 .navbar .dropdown-menu .nav-item > .nav-item-link:hover:before {
   width: 100%;
@@ -3694,7 +3699,7 @@ input[type=radio] {
     content: "\f106";
   }
   .navbar .dropdown-menu {
-  background-color: rgb(152, 125, 76) !important;
+    /* background-color: white; */
   }
   .navbar .dropdown-menu .nav-item {
     padding: 0 15px 0 30px;
@@ -4510,7 +4515,7 @@ input[type=radio] {
   font-weight: 500;
   display: flex;
   align-items: center;
-  color: var(--color-secondary);
+
 }
 .footer .contact-list li a .contact-icon {
   margin-right: 15px;
@@ -4520,7 +4525,7 @@ input[type=radio] {
   color: var(--color-gray-400);
 }
 .footer .contact-list li a:hover {
-  color: var(--color-primary-500);
+ 
 }
 .footer .footer-widget-nav li a {
   display: inline-block;
@@ -6711,7 +6716,7 @@ iframe {
   font-weight: 500;
   display: flex;
   align-items: center;
-  color: var(--color-primary-700);
+
 }
 .map-container .contact-list li a .contact-icon {
   margin-right: 15px;
@@ -10774,12 +10779,6 @@ iframe {
     gap: 15px;
 }
 
-.slick-prev, .slick-next {
-    z-index: 10;
-    width: 40px;
-    height: 40px;
-}
-
 /* Responsive Styles */
 @media (max-width: 1200px) {
     .slide-content {
@@ -10843,6 +10842,24 @@ iframe {
     }
 }
 
+/* Ensure arrows and dots are always visible */
+.slick-prev, .slick-next {
+    z-index: 10;
+    width: 40px;
+    height: 40px;
+}
+.slick-dots {
+    bottom: 20px;
+}
+}
 
 
+.color-balck{
+  color: black;
+}
+
+
+
+.email-hover:hover{
+  color: wheat !important;
 }

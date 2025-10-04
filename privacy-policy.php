@@ -75,6 +75,12 @@
                         updated date. If you have any questions or concerns regarding your data
                         privacy, please contact us directly through our official channels.
                     </p>
+
+                    <p>
+                        <b> Shivglobe Ai And Aviation Academy </b> Learning are committed to provide the best courses on aviation & hospitality.
+It’s our top priority that business transactions between us are completely transparent. Since our online courses are immediately available after purchase. Therefore, we have <b> “NO REFUND POLICY”</b>
+In case of dissatisfaction from the course, you are encouraged to write about your particular concerns with us at our <b> Email: info@shivglobeacademy.com </b> We will take all possible measures to address your concern.
+                    </p>
                 </div>
             </div>
         </div>
@@ -137,7 +143,7 @@
                     </p>
                     <p><strong>Email:</strong>  info@shivglobeacademy.com
 </p>
-                    <p><strong>Phone:</strong> +91-9876543210</p>
+                    <p><strong>Phone:</strong> +91 9211018618</p>
                     <p><strong>Address:</strong>  B- 113, B- Block, Sector- 64, Noida Goutam budh Nagar- 201301</p>
                 </div>
 

@@ -89,10 +89,9 @@
                          </p>
                          <ul class="contact-list list-unstyled">
                              <li>
-                                 <a href="">
-                                     <i class="contact-icon icon-email"></i> <span><span class="__cf_email__ email-hover"
-                                             data-cfemail="a1f6c0d2d5c8c0e196ced3cecec78fc2cecc">[info@shivglobeacademy.com]</span></span>
-                                 </a>
+                                 <a href="tel:+919211018618">
+                                            <span class="color-secondary">Email: </span> <span><span>&#160; info@shivglobeacdemy.com</span></span>
+                                        </a>
                              </li>
                              <li>
                                  <a href="tel:00201061245741">

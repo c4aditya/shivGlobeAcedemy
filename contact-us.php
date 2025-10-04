@@ -38,7 +38,7 @@
                         <li>
                             <i class="icon-email color-secondary"></i>
                             <a href="tel:+201161145741">
-                                <span class="color-secondary"> Emergency Line: </span> <span>+91 9211018618</span>
+                                <span class="color-secondary"> Helpline no :- </span> <span>+91 9211018618</span>
                             </a>
                         </li>
                         <li>

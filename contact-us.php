@@ -44,7 +44,7 @@
                         <li>
                             <i class="icon-location color-secondary"></i>
                             <a href="https://maps.app.goo.gl/giovV1LyYx5evBnZ7" target="_blank">
-                                <span class="color-secondary">Location: </span> <span>  B- 113, B- Block, Sector- 64, Noida Goutam budh Nagar- 201301</span>
+                                <span class="color-secondary">Location: </span> <span>  B- 113, B- Block, Sector- 64, Noida Gautam Buddha Nagar- 201301</span>
                             </a>
                         </li>
                         <li>

@@ -99,8 +99,7 @@
                                  </a>
                              </li>
                              <li>
-                                 <a class="contact-address" href="#"> B- 113, B- Block, Sector- 64, Noida Goutam
-                                     budh Nagar- 201301</a>
+                                 <a class="contact-address" href="#"> B- 113, B- Block, Sector- 64, Noida Gautam Buddha Nagar- 201301</a>
                              </li>
                          </ul>
                      </div>

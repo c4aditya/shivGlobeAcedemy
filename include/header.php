@@ -11,9 +11,11 @@
     <link rel="stylesheet"
         href="https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;500;700&amp;family=Roboto:wght@400;700&amp;display=swap">
     <link rel="stylesheet" href="../../../use.fontawesome.com/releases/v5.15.1/css/all.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/libraries.css">
     <link rel="stylesheet" href="assets/css/icons.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 
 <body>
@@ -35,13 +37,15 @@
                                     <li>
                                         <i class="icon-location color-secondary"></i>
                                         <a href="#">
-                                            <span class="color-secondary">Location: </span> <span> B- 113, B- Block, Sector- 64, Noida Goutam budh Nagar- 201301</span>
+                                            <span class="color-secondary">Location: </span> <span>B-113, Sector 64,
+                                                Noida 201301 (UP),India</span>
                                         </a>
                                     </li>
                                     <li>
                                         <i class="icon-email color-secondary"></i>
                                         <a href="tel:+919211018618">
-                                            <span class="color-secondary">Email: </span> <span><span>&#160; info@shivglobeacdemy.com</span></span>
+                                            <span class="color-secondary">Email: </span> <span><span>&#160;
+                                                    info@shivglobeacdemy.com</span></span>
                                         </a>
                                     </li>
                                     <li>
@@ -53,7 +57,7 @@
                                     </li>
                                 </ul><!-- /.contact-list -->
                                 <div class="d-flex align-items-center">
-                                    <ul class="header-topbar-links d-flex list-unstyled mb-0 mr-10">                                      
+                                    <ul class="header-topbar-links d-flex list-unstyled mb-0 mr-10">
                                         <li><a href="careers.php">Careers</a></li>
                                         <li><a href="faqs.php">FAQs</a></li>
                                     </ul><!-- /.social-icons -->
@@ -78,46 +82,41 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-center" id="mainNavigation">
                         <ul class="navbar-nav ms-auto">
+
                             <li class="nav-item">
-                                <a href="index.php" class="nav-item-link ">Home</a>
+                                <a href="index.php" class="nav-item-link">Home</a>
                             </li>
+
                             <li class="nav-item">
-                                <a href="about-us.php" class="nav-item-link ">About Us</a>
+                                <a href="about-us.php" class="nav-item-link">About Us</a>
                             </li>
-                            <li class="nav-item has-dropdown dropdown">
-                                <a href="#" class="nav-item-link dropdown-toggle" data-bs-toggle="dropdown">Select a Course</a>
+
+                            <!-- FIXED DROPDOWN -->
+                            <li class="nav-item dropdown">
+                                <a href="#" class="nav-item-link dropdown-toggle">
+                                    Select a Course <i class="bi bi-caret-down-fill"></i>
+                                </a>
+
                                 <ul class="dropdown-menu">
-                                    <li class="nav-item">
-                                        <a href="aviation-training.php" class="nav-item-link color-balck">Aviation Training</a>
-                                    </li><!-- /.nav-item -->
-                                    <li class="nav-item">
-                                        <a href="it-software-development.php" class="nav-item-link">IT Software Development</a>
-                                    </li><!-- /.nav-item -->
-
-                                    <li class="nav-item">
-                                        <a href="banking-finance-training.php" class="nav-item-link">Banking & Finance Training</a>
+                                    <li><a href="aviation-training.php" class="dropdown-item">Aviation Training</a></li>
+                                    <li><a href="it-software-development.php" class="dropdown-item">IT Software
+                                            Development</a></li>
+                                    <li><a href="banking-finance-training.php" class="dropdown-item">Banking & Finance
+                                            Training</a></li>
+                                    <li><a href="banking-operations.php" class="dropdown-item">Banking Operations</a>
                                     </li>
-
-                                      <li class="nav-item">
-                                        <a href="banking-operations.php" class="nav-item-link">Banking Operations</a>
+                                    <li><a href="accounting-basics.php" class="dropdown-item">Accounting Basics</a></li>
+                                    <li><a href="database-management.php" class="dropdown-item">Database Management</a>
                                     </li>
-
-                                      <li class="nav-item">
-                                        <a href="accounting-basics.php" class="nav-item-link">Accounting Basics</a>
-                                    </li>
-
-                                      <li class="nav-item">
-                                        <a href="database-management.php" class="nav-item-link">Database Management</a>
-                                    </li>
-                                    
-                                    <!-- /.nav-item -->
-                                </ul><!-- /.dropdown-menu -->
+                                </ul>
                             </li>
+
                             <li class="nav-item">
-                                <a href="blog-details.php" class="nav-item-link ">Blog</a>
+                                <a href="blog-details.php" class="nav-item-link">Blog</a>
                             </li>
+
                             <li class="nav-item">
-                                <a href="contact-us.php" class="nav-item-link ">Contact Us</a>
+                                <a href="contact-us.php" class="nav-item-link">Contact Us</a>
                             </li>
 
                         </ul>

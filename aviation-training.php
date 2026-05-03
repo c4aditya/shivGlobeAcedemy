@@ -247,14 +247,14 @@
             </div>
             <div class="col-3">
                 <div class="custom-card">
-                    <a href="aircraft-maintenance-engineering.php">
+                    <a href="operation-management.php">
                         <div class="custom-card__image">
                             <img src="assets/images/page-titles/close-up-blurry-hand-holding-pencil.jpg"
                                 alt="Interview & Group Discussion Preparation">
                         </div>
                         <div class="custom-card__details">
-                            <strong class="details__name">Diploma in AME</strong>
-                            <div class="details__instructor"> (Aircraft Maintenance Engineering)</div>
+                            <strong class="details__name">Operation Management</strong>
+                            <div class="details__instructor">Unlock Your Future in the Skies with Our Diploma in Operation Management</div>
                             <div class="details__bottom">
                                 <div class="star-rating">
                                     <span class="stars">

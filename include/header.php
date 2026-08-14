@@ -45,7 +45,7 @@
                                         <i class="icon-email color-secondary"></i>
                                         <a href="tel:+919211018618">
                                             <span class="color-secondary">Email: </span> <span><span>&#160;
-                                                    info@shivglobeacdemy.com</span></span>
+                                                   info@shivglobeacademy.com</span></span>
                                         </a>
                                     </li>
                                     <li>

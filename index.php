@@ -61,6 +61,30 @@
                 </div>
             </div>
         </div>
+                <div class="slide-item bg-overlay align-v-h">
+            <div class="bg-img"><img src="assets/images/sliders/1.png" alt="slide img"></div>
+            <div class="container">
+                <div class="row align-items-center">
+                    <div class="col-12 col-xl-10">
+                        <div class="slide-content">
+                            <span class="slide-subtitle">We Deliver Industry-Ready AI Education & Professional Training</span>
+                            <h2 class="slide-title">Upcoming AI Courses
+Shape Your Future with Artificial Intelligence</h2>
+                            <p class="slide-desc">Join our upcoming AI programs designed to equip you with in-demand skills for the future. Learn from industry experts through practical projects, hands-on training, and real-world applications. Build a successful career in Artificial Intelligence with globally relevant knowledge and certifications.</p>
+                            <div class="d-flex flex-wrap align-items-center">
+                                <a href="aviation-training.php" class="btn btn-primary btn-xl btn-xhight mr-30">
+                                    <span>Explore Our Services</span>
+                                    <i class="icon-arrow-right-up"></i>
+                                </a>
+                                <a href="about-us.php" class="btn btn-white btn-xhight">
+                                    <span>More About Us</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 

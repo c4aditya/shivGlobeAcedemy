@@ -43,7 +43,7 @@
                                     </li>
                                     <li>
                                         <i class="icon-email color-secondary"></i>
-                                        <a href="tel:+919211018618">
+                                        <a href="tel:+919310907455">
                                             <span class="color-secondary">Email: </span> <span><span>&#160;
                                                    info@shivglobeacademy.com</span></span>
                                         </a>

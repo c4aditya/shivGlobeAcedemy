@@ -94,8 +94,8 @@
                                         </a>
                              </li>
                              <li>
-                                 <a href="tel:00201061245741">
-                                     <i class="contact-icon icon-phone"></i> <span>+91 9211018618</span>
+                                 <a href="tel:+919310907455">
+                                     <i class="contact-icon icon-phone"></i> <span>+91 +919310907455</span>
                                  </a>
                              </li>
                              <li>

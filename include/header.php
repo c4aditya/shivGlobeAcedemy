@@ -134,7 +134,7 @@
                             <div class="contact-icon"><i class="icon-phone"></i></div>
                             <div>
                                 <span class="d-block color-gray">Need assistance?</span>
-                                <span class="phone-number d-block">+91 9211018618</span>
+                                <span class="phone-number d-block">+91 919310907455</span>
                             </div>
                         </a>
                     </div>

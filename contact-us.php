@@ -38,7 +38,7 @@
                         <li>
                             <i class="icon-email color-secondary"></i>
                             <a href="tel:+919310907455">
-                                <span class="color-secondary"> Helpline no :- </span> <span>+91 +919310907455</span>
+                                <span class="color-secondary"> Helpline no :- </span> <span>+91 9310907455</span>
                             </a>
                         </li>
                         <li>
@@ -62,7 +62,7 @@
     <h4 class="contact-panel-title">Send A Message</h4>
     <p class="contact-panel-desc mb-30">
         Please complete the form below, to request a quote, and we’ll be in touch. Or you can call us
-        <a href="tel:+201161145741" class="fw-600 underlined-text-primary">+91 9211018618</a>
+        <a href="tel:+201161145741" class="fw-600 underlined-text-primary">+91 9310907455</a>
         and our specialists will provide the necessary help!
     </p>
 
